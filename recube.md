@@ -14,8 +14,19 @@ reCube does **not** require you to create an account or provide any personal inf
 - Browser type and version
 - Device type
 - General usage data (such as pages visited and time spent)
+- **Advertising data collected by MobAd (see below)**
 
-This information is used solely to ensure the website functions correctly and to help us improve the game experience.
+This information is used solely to ensure the website functions correctly, to help us improve the game experience, and to serve ads via MobAd.
+
+**Advertising and Third-Party Services**
+
+reCube now displays ads provided by MobAd. MobAd may collect certain information from your device to serve relevant ads, including but not limited to:
+
+- Device identifiers
+- IP address
+- Advertising data (such as ad impressions, clicks, and engagement)
+
+MobAd's collection and use of your information is governed by their own privacy policy. We recommend reviewing MobAd's privacy policy for more details.
 
 **Permissions**
 
@@ -26,11 +37,11 @@ reCube does **not** request or require any special permissions from your device 
 - To operate and maintain the website
 - To monitor and analyze usage to improve the game
 
-We do **not** use your information for advertising, marketing, or profiling.
+We do **not** use your information for advertising, marketing, or profiling **except as required to display ads via MobAd**.
 
 **Sharing Your Information**
 
-We do **not** sell, trade, or share your information with third parties. Information may only be disclosed if required by law.
+We do **not** sell, trade, or share your information with third parties **except as required for ad delivery by MobAd**. Information may only be disclosed if required by law.
 
 **Data Security**
 
